@@ -1,4 +1,20 @@
-<h1 id="start">Kotlin для начинающих</h1>
+<h1 align="center" id="start">
+    Kotlin для начинающих
+</h1>
+
+<div align="center">
+  <h3>🚀 Техническое задание для компании Тензор</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-1.9.20-orange.svg" alt="Kotlin Version">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  <img src="https://img.shields.io/badge/Level-Начальный-green.svg" alt="Level">
+</div>
+
+---
+
+## 📖 Содержание
 
 <br><a href="#modul_1">Приветственные слова автора</a>
 <br><a href="#modul_2">Введение</a>
@@ -7,6 +23,8 @@
 <br><a href="#modul_5">Операторы повторения (циклы)</a>
 <br><a href="#modul_6">Функции и списки</a>
 <br><a href="#modul_7">Классы и null-safety</a>
+<br><a href="#modul_8">Как использовать этот репозиторий</a>
+
 
 <h2 id="modul_1">Приветственные слова автора</h2>
 <p>
@@ -17,6 +35,16 @@
 Чтобы курс считался пройденным тебе нужно решить все задачи в курсе. Для этого создай свой репозиторий с клоном этого проекта. Сдать очередную задачу можно через pull request адресованный мне.  
 <br><b>Желаю успеха!</b> 
 </p>
+
+### 📥 Быстрая установка
+```bash
+# IntelliJ IDEA Community (бесплатно)
+# Скачай: https://www.jetbrains.com/idea/download/
+
+# Онлайн-редактор (без установки)
+https://play.kotlinlang.org/
+```
+
 <br><a href="#start">Вернуться в начало</a>
 
 <h2 id="modul_2">Введение</h2>
@@ -414,3 +442,21 @@ do-while применяется в случаях, когда обязатель
 
 <h2 id="modul_7">Классы и null-safety</h2>
 <br><a href="#start">Вернуться в начало</a>
+
+
+<h2 id="modul_8">🚀 Как использовать этот репозиторий</h2>
+
+Клонируй проект: git clone https://github.com/IvankovVal/tenzor_test_task.git
+Открой в IntelliJ IDEA
+Запускай примеры в модулях
+Решай задания, которые найдёшь в файлах TasksForModul_*.kt, по ссылкам
+📞 Связь с автором
+<div align="center">
+  <a href="ivankov.link@gmail.com">
+   ivankov.link@gmail.com
+  </a>
+и
+  <a href="https://t.me/vivankov87">
+    @vivankov87
+  </a>
+</div>
