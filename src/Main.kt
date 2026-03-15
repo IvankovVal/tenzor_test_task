@@ -1,7 +1,10 @@
 fun main() {
-    val birthYear: Int = 1987
-    var name = "Валерий"
-    //birthYear += 5
-    name = "Олег"
-    println(name)
+    val score = 85
+    if (score >= 90) {
+        println("Отлично")
+    } else if (score >= 70) { //добавление альтернативного условия
+        println("Хорошо") //
+    } else {
+        println("Нужно подтянуть знания")
+    }
 }
